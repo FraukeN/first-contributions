@@ -2568,4 +2568,4 @@
 - [Rohit Markam](https://github.com/DarkMethod)
 - [Mohammad Maaz Khan](https://github.com/maaz92)
 - [Hugo Matus](https://github.com/hugomatus)
-- [Frauke Nonnenmacher](https://github.com/FraukeN)
+- [Frauke "The Witch" Nonnenmacher](https://github.com/FraukeN)
